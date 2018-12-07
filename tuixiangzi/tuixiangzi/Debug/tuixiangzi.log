@@ -1,0 +1,4 @@
+﻿  TUIXIANGZI.c
+d:\myvs\tuixiangzi\tuixiangzi\tuixiangzi.c(83): warning C4013: “getch”未定义；假设外部返回 int
+d:\myvs\tuixiangzi\tuixiangzi\tuixiangzi.c(117): error C2065: “option”: 未声明的标识符
+d:\myvs\tuixiangzi\tuixiangzi\tuixiangzi.c(117): error C2065: “level_opotion”: 未声明的标识符
